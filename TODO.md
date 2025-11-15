@@ -1,0 +1,2 @@
+- [x] Update exchange/provider.py to include access_key in API requests
+- [x] Ensure ACCESS_KEY is set in .env file
