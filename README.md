@@ -157,9 +157,3 @@ Pull requests are welcome!
 Feel free to fork this repo and open an issue for suggestions.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
